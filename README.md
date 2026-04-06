@@ -98,13 +98,13 @@ Hi, I'm **Hemang Singh**, a Full Stack Web Developer based in **Ahmedabad, India
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemangsingh-47&theme=github_dark" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemangsingh-47&theme=nord_dark" />
 
 <br/>
 
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemangsingh-47&theme=github_dark" />
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemangsingh-47&theme=github_dark" />
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemangsingh-47&theme=github_dark" />
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemangsingh-47&theme=nord_dark" />
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemangsingh-47&theme=nord_dark" />
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemangsingh-47&theme=nord_dark" />
 
 <br/><br/>
 
