@@ -98,13 +98,12 @@ Hi, I'm **Hemang Singh**, a Full Stack Web Developer based in **Ahmedabad, India
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemangsingh-47&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemangsingh-47&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemangsingh-47&theme=tokyonight" />
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemangsingh-47&theme=tokyonight" />
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemangsingh-47&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hemangsingh-47&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsingh-47&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -124,20 +123,6 @@ Hi, I'm **Hemang Singh**, a Full Stack Web Developer based in **Ahmedabad, India
   <a href="https://leetcode.com/u/hemang47/">
     <img src="https://leetcard.jacoblin.cool/hemang47?theme=dark&font=Nunito&ext=contest&border=0&radius=20" alt="LeetCode Stats" />
   </a>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🛒 Eufy Website Clone | 🚚 Fleet Management System |
-|---|---|
-| Fully responsive clone of the Eufy website. | A web-based fleet management system with vehicle tracking, fleet data, and a clean operations dashboard. |
-| **HTML • CSS • JavaScript** | **React • Node.js • Tailwind CSS • JavaScript** |
-| [🔗 Repo](https://github.com/hemangsingh-47/clone_assignment/tree/main/eufy) • [🌐 Live Demo](https://eufyclone.netlify.app/) | [🔗 Repo](https://github.com/hemangsingh-47/oddo_01) • [🌐 Live Demo](https://fleet-flow-coding-gita.netlify.app/login) |
-
 </div>
 
 ---
