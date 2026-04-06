@@ -98,12 +98,17 @@ Hi, I'm **Hemang Singh**, a Full Stack Web Developer based in **Ahmedabad, India
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=hemangsingh-47&theme=dark&hide_border=true&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=2DD4BF&dates=14b8a6&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemangsingh-47&theme=github_dark" />
+
+<br/>
+
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemangsingh-47&theme=github_dark" />
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemangsingh-47&theme=github_dark" />
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemangsingh-47&theme=github_dark" />
 
 <br/><br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hemangsingh-47&show_icons=true&theme=dark&hide_border=true&icon_color=2DD4BF&title_color=2DD4BF&count_private=true&rank_icon=github" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsingh-47&layout=compact&theme=dark&hide_border=true&title_color=2DD4BF&langs_count=8" />
+<img src="https://streak-stats.demolab.com/?user=hemangsingh-47&theme=dark&hide_border=true&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=2DD4BF&dates=14b8a6&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
