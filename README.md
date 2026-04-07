@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- Animated Banner - Ocean Teal -->
+<!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0e7490,100:134e4a&height=200&section=header&text=Hey%20There!%20I%27m%20Hemang%20Singh%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=60&descAlign=50" />
 
 <br/>
 
-<!-- Typing SVG - Teal -->
+<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast;Building+Scalable+Web+Apps;Turning+Ideas+Into+Code!" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Profile Views & Social Badges -->
+<!-- Profile Views & Followers -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=hemangsingh-47&label=Profile%20Views&color=0e7490&style=flat-square" alt="Profile Views" />
   &nbsp;
@@ -27,15 +27,18 @@
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-Hi, I'm **Hemang Singh**, a Full Stack Web Developer based in **Ahmedabad, India 🇮🇳**. I'm passionate about building scalable web applications, solving real-world problems with code, and crafting clean backend APIs. Currently deepening my skills in **Advanced MERN Stack Development**.
+Hi, I'm **Hemang Singh**, a Full Stack Web Developer based in **Ahmedabad, India 🇮🇳**.  
+I'm passionate about building scalable web applications, solving real-world problems with code, and crafting clean backend APIs.
 
 - 🔭 Currently working on **building scalable full-stack applications**
 - 🌱 Learning **Advanced MERN Stack Development**
 - 👯 Looking to collaborate on **open-source & innovative projects**
 - 💬 Ask me about **React, Node.js, MongoDB, Express**
-- ⚡ Fun fact: My superpowers are **debugging backend APIs & crafting responsive React UI** 😄
+- ⚡ Fun fact: My superpowers are **debugging backend APIs & crafting responsive React UI**
 
 <br clear="right"/>
+
+---
 
 ## 🌐 Connect With Me
 
@@ -57,10 +60,12 @@ Hi, I'm **Hemang Singh**, a Full Stack Web Developer based in **Ahmedabad, India
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 🎨 Frontend
-<p>
+<div align="center">
+
+## 🎨 Frontend
+<p align="center">
   <img src="https://img.shields.io/badge/React-0e7490?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-0f766e?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-0e7490?style=for-the-badge&logo=html5&logoColor=white" />
@@ -69,21 +74,21 @@ Hi, I'm **Hemang Singh**, a Full Stack Web Developer based in **Ahmedabad, India
   <img src="https://img.shields.io/badge/Redux-134e4a?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
-### ⚙️ Backend
-<p>
+## ⚙️ Backend
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-0e7490?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-0f766e?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/C-0e7490?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-134e4a?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
-### 🗄️ Database
-<p>
+## 🗄️ Database
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-0f766e?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### ☁️ DevOps & Deployment
-<p>
+## ☁️ DevOps & Deployment
+<p align="center">
   <img src="https://img.shields.io/badge/Netlify-0e7490?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-0f766e?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-134e4a?style=for-the-badge&logo=github&logoColor=white" />
@@ -91,37 +96,39 @@ Hi, I'm **Hemang Singh**, a Full Stack Web Developer based in **Ahmedabad, India
   <img src="https://img.shields.io/badge/Postman-0f766e?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+</div>
+
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemangsingh-47&theme=nord_dark" />
-
-<br/>
-
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemangsingh-47&theme=nord_dark&cache_seconds=3600" />
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemangsingh-47&theme=nord_dark&cache_seconds=3600" />
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemangsingh-47&theme=nord_dark&cache_seconds=3600" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemangsingh-47&theme=github_dark" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=hemangsingh-47&theme=dark&hide_border=true&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=2DD4BF&dates=14b8a6&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemangsingh-47&theme=github_dark" />
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemangsingh-47&theme=github_dark" />
+<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemangsingh-47&theme=github_dark" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=hemangsingh-47&theme=transparent&hide_border=true&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=2DD4BF&dates=8ab4b8&currStreakNum=ffffff&sideNums=ffffff&background=0a1628" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemangsingh-47&hide_border=true&area=true&bg_color=0a1628&color=2dd4bf&line=0e7490&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemangsingh-47&bg_color=0a1628&color=2dd4bf&line=0e7490&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 🧩 LeetCode Stats
+# 🧩 LeetCode Stats
 
 <div align="center">
   <a href="https://leetcode.com/u/hemang47/">
@@ -135,6 +142,8 @@ Hi, I'm **Hemang Singh**, a Full Stack Web Developer based in **Ahmedabad, India
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0e7490,100:134e4a&height=120&section=footer&animation=fadeIn" />
 
-**⭐ Star my repos if you find them helpful! Happy Coding! 🚀**
+## ⭐ Star my repositories if you find them helpful!
+
+### 🚀 Thanks for visiting my profile
 
 </div>
