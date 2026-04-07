@@ -32,7 +32,6 @@ Hi, I'm **Hemang Singh**, a Full Stack Web Developer based in **Ahmedabad, India
 - 🔭 Currently working on **building scalable full-stack applications**
 - 🌱 Learning **Advanced MERN Stack Development**
 - 👯 Looking to collaborate on **open-source & innovative projects**
-- 🏆 Participated in **IIT Bombay FinAgent Hackathon**
 - 💬 Ask me about **React, Node.js, MongoDB, Express**
 - ⚡ Fun fact: My superpowers are **debugging backend APIs & crafting responsive React UI** 😄
 
